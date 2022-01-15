@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T23:36:20.623Z" agent="5.0 (Windows)" etag="13HAx5qOt9iOmyOjwIHe" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T23:52:30.151Z" agent="5.0 (Windows)" etag="haGCCuFfZ2PafLINeWyv" version="16.2.7" type="github">
   <diagram id="nLNuDhBcxOulg_1jgsw2" name="Page-1">
     <mxGraphModel dx="1027" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="UxwG2nhsopdXGxE57FWr-28" value="depto" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="UxwG2nhsopdXGxE57FWr-9" vertex="1">
           <mxGeometry y="270" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UxwG2nhsopdXGxE57FWr-29" value="ciudad" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="UxwG2nhsopdXGxE57FWr-9" vertex="1">
+        <mxCell id="UxwG2nhsopdXGxE57FWr-29" value="ciudad_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="UxwG2nhsopdXGxE57FWr-9" vertex="1">
           <mxGeometry y="300" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c3VO491BWAxaFFyi_meB-3" value="provincia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="UxwG2nhsopdXGxE57FWr-9">
@@ -196,7 +196,7 @@
         <mxCell id="c3VO491BWAxaFFyi_meB-44" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;fontColor=#000000;" edge="1" parent="1" source="c3VO491BWAxaFFyi_meB-31" target="UxwG2nhsopdXGxE57FWr-29">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="410" y="490" as="sourcePoint" />
-            <mxPoint x="510" y="390" as="targetPoint" />
+            <mxPoint x="210" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c3VO491BWAxaFFyi_meB-46" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;fontColor=#000000;" edge="1" parent="1" source="c3VO491BWAxaFFyi_meB-27" target="c3VO491BWAxaFFyi_meB-3">
