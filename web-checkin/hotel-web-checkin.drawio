@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T04:08:28.849Z" agent="5.0 (X11)" etag="ooxZsCab4LLvA0xYB6ff" version="16.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-17T04:09:18.129Z" agent="5.0 (X11)" etag="N8BVdQMEyDvIZuFdpf9s" version="16.2.7" type="github" pages="4">
   <diagram id="3-4cgfK8jJckpKzX2dAv" name="DB">
     <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -467,21 +467,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s4ix3_2L5PrX4Br4rsp6" name="Back End">
-    <mxGraphModel dx="981" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-JSUNKhNH0zPFu92hYEa-0" />
         <mxCell id="-JSUNKhNH0zPFu92hYEa-1" parent="-JSUNKhNH0zPFu92hYEa-0" />
         <mxCell id="WuwASWHCUgVYnOvvD9V4-0" value="&lt;div&gt;BACKEND&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="-JSUNKhNH0zPFu92hYEa-1">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MyjCDDOYTBHtuA780K3L-0" value="&lt;div&gt;CRUD para Clientes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-JSUNKhNH0zPFu92hYEa-1">
-          <mxGeometry x="20" y="240" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MyjCDDOYTBHtuA780K3L-1" value="&lt;div&gt;CRUD para Estadias&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-JSUNKhNH0zPFu92hYEa-1">
-          <mxGeometry x="35" y="170" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FEG5iqL_36BtGht9ZHQa-0" value="&lt;div&gt;CRUD para Ciudad, Pais, Provincia&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-JSUNKhNH0zPFu92hYEa-1">
-          <mxGeometry x="30" y="200" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="z3olM32J77gVmdePVOwt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="-JSUNKhNH0zPFu92hYEa-1" source="e3Igx5WSUSiP8SbiomN_-0" target="ni6qzTMT0ksd7Kz9mVBE-0">
           <mxGeometry relative="1" as="geometry" />
