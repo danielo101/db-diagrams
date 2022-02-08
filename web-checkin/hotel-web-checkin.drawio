@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T00:00:43.765Z" agent="5.0 (Windows)" etag="t9ygDK9UOsNuOO5WsGYq" version="16.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-08T00:06:59.614Z" agent="5.0 (Windows)" etag="FhgZh82Fdjv-iztCXK0u" version="16.5.3" type="github" pages="2">
   <diagram id="3-4cgfK8jJckpKzX2dAv" name="DB">
     <mxGraphModel dx="1027" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -320,6 +320,12 @@
         </mxCell>
         <mxCell id="XhciaFQ7OON7Q09pCCyz-10" value="&lt;div&gt;¿Completo&lt;/div&gt;&lt;div&gt;perfil?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
           <mxGeometry x="352.5" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XhciaFQ7OON7Q09pCCyz-11" value="&lt;div&gt;FORM&lt;br&gt;&lt;/div&gt;&lt;div&gt;form-profile.php&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
+          <mxGeometry x="347.5" y="610" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XhciaFQ7OON7Q09pCCyz-12" value="&lt;div&gt;CHECK&lt;br&gt;&lt;/div&gt;&lt;div&gt;login-cliente.php&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
+          <mxGeometry x="510" y="515" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
