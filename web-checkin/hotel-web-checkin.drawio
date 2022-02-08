@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T00:55:06.349Z" agent="5.0 (Windows)" etag="oY_oySovK-5ODnGAR_i-" version="16.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-08T01:01:25.078Z" agent="5.0 (Windows)" etag="q6hqWg21IbHnE1R08cGK" version="16.5.3" type="github" pages="2">
   <diagram id="3-4cgfK8jJckpKzX2dAv" name="DB">
     <mxGraphModel dx="1027" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -328,16 +328,16 @@
           <mxGeometry x="230" y="690" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XhciaFQ7OON7Q09pCCyz-15" value="&lt;div&gt;¿Tiene&lt;/div&gt;&lt;div&gt;reserva?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
-          <mxGeometry x="510" y="480" width="100" height="100" as="geometry" />
+          <mxGeometry x="570" y="520" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XhciaFQ7OON7Q09pCCyz-16" value="&lt;div&gt;TABLE&lt;br&gt;&lt;/div&gt;&lt;div&gt;datos de reserva&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
-          <mxGeometry x="505" y="610" width="105" height="50" as="geometry" />
+          <mxGeometry x="465" y="645" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XhciaFQ7OON7Q09pCCyz-21" value="&lt;div&gt;FORM&lt;br&gt;&lt;/div&gt;&lt;div&gt;form-estadia.php&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
-          <mxGeometry x="507.5" y="690" width="105" height="50" as="geometry" />
+          <mxGeometry x="465" y="730" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XhciaFQ7OON7Q09pCCyz-24" value="create-estadia.php" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
-          <mxGeometry x="505" y="770" width="155" height="50" as="geometry" />
+        <mxCell id="XhciaFQ7OON7Q09pCCyz-24" value="&lt;div&gt;create-estadia.php&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cliente_id, reserva-id&lt;/div&gt;&lt;div&gt;cliente_id, acompananates&lt;br&gt;&lt;/div&gt;&lt;div&gt;status_webcheckin = 1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
+          <mxGeometry x="390" y="810" width="197.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XhciaFQ7OON7Q09pCCyz-27" value="&lt;div&gt;update-cliente.php&lt;/div&gt;&lt;div&gt;status_proflie = 1&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
           <mxGeometry x="10" y="595" width="140" height="50" as="geometry" />
@@ -347,6 +347,15 @@
         </mxCell>
         <mxCell id="XhciaFQ7OON7Q09pCCyz-34" value="&lt;div&gt;TABLE&lt;/div&gt;&lt;div&gt;datos cliente&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
           <mxGeometry x="247.5" y="520" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XhciaFQ7OON7Q09pCCyz-36" value="&lt;div&gt;update-estadia.php&lt;/div&gt;&lt;div&gt;cliente_id, acompananates&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
+          <mxGeometry x="607" y="810" width="197.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XhciaFQ7OON7Q09pCCyz-37" value="&lt;div&gt;Actualizar&lt;/div&gt;&lt;div&gt;datos&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
+          <mxGeometry x="682.5" y="650" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XhciaFQ7OON7Q09pCCyz-38" value="&lt;div&gt;CHECK&lt;br&gt;&lt;/div&gt;&lt;div&gt;reservas.php&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="XhciaFQ7OON7Q09pCCyz-1">
+          <mxGeometry x="557.5" y="420" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
