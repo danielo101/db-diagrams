@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T23:20:40.171Z" agent="5.0 (Windows)" etag="eVROR_S7Jt5yyGg_tfUe" version="16.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-13T23:22:59.828Z" agent="5.0 (Windows)" etag="FCmLIQlNoXrDaGDtSbDf" version="16.5.6" type="github" pages="3">
   <diagram id="3-4cgfK8jJckpKzX2dAv" name="DB">
     <mxGraphModel dx="1027" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -735,7 +735,7 @@
           <mxGeometry x="90" y="60" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XDW9J1ctn_4x-40NuvN8-186" value="ACTUALIZAR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="XDW9J1ctn_4x-40NuvN8-169">
-          <mxGeometry x="290" y="210" width="60" height="20" as="geometry" />
+          <mxGeometry x="230" y="210" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XDW9J1ctn_4x-40NuvN8-187" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="XDW9J1ctn_4x-40NuvN8-169">
           <mxGeometry x="100" y="90" width="110" height="20" as="geometry" />
@@ -754,6 +754,9 @@
         </mxCell>
         <mxCell id="XDW9J1ctn_4x-40NuvN8-192" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="XDW9J1ctn_4x-40NuvN8-169">
           <mxGeometry x="220" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XDW9J1ctn_4x-40NuvN8-210" value="BORRAR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="XDW9J1ctn_4x-40NuvN8-169">
+          <mxGeometry x="300" y="210" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XDW9J1ctn_4x-40NuvN8-185" value="&lt;div&gt;update-reserva.php&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="XDW9J1ctn_4x-40NuvN8-1">
           <mxGeometry x="40" y="640" width="360" height="30" as="geometry" />
