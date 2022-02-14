@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T01:08:57.330Z" agent="5.0 (Windows)" etag="iV2-jpkF8B9TzKAhO2Da" version="16.5.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-14T01:12:07.766Z" agent="5.0 (Windows)" etag="aC9AF8sHomfI_a9ZAqQ2" version="16.5.6" type="github" pages="6">
   <diagram id="3-4cgfK8jJckpKzX2dAv" name="DB">
     <mxGraphModel dx="1066" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1510,7 +1510,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="UI-Cliente-Perfil" id="sbhSwXHalWpxOMTNBQcR">
-    <mxGraphModel dx="735" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1254" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jeMRQTVuAWOq2PZEhe35-0" />
         <mxCell id="jeMRQTVuAWOq2PZEhe35-1" parent="jeMRQTVuAWOq2PZEhe35-0" />
@@ -1530,7 +1530,7 @@
           <mxGeometry x="480" y="640" width="280" height="480" as="geometry" />
         </mxCell>
         <mxCell id="OiwbedZ-ZzPqovgx9rp5-0" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;Hola Roberto! Vamos a completar tu perfil.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=20;fontColor=#000000;" vertex="1" parent="jeMRQTVuAWOq2PZEhe35-1">
-          <mxGeometry x="240" y="120" width="510" height="70" as="geometry" />
+          <mxGeometry x="240" y="100" width="510" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OiwbedZ-ZzPqovgx9rp5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=14;fontColor=#000000;strokeColor=default;strokeWidth=1;fillColor=none;" vertex="1" parent="jeMRQTVuAWOq2PZEhe35-1">
           <mxGeometry x="240" y="200" width="510" height="300" as="geometry" />
@@ -1594,6 +1594,15 @@
         </mxCell>
         <mxCell id="b7xus-qlJeKe5xjRJPk2-37" value="Opcion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=12;fontColor=#000000;" vertex="1" parent="jeMRQTVuAWOq2PZEhe35-1">
           <mxGeometry x="530" y="445" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7xus-qlJeKe5xjRJPk2-38" value="&lt;div style=&quot;font-size: 20px&quot;&gt;Hola Roberto! Por favor actualiza tus datos.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=20;fontColor=#CCCCCC;" vertex="1" parent="jeMRQTVuAWOq2PZEhe35-1">
+          <mxGeometry x="240" y="150" width="510" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b7xus-qlJeKe5xjRJPk2-39" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=12;fontColor=#CCCCCC;strokeColor=default;strokeWidth=1;fillColor=none;" vertex="1" parent="jeMRQTVuAWOq2PZEhe35-1">
+          <mxGeometry x="350" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7xus-qlJeKe5xjRJPk2-40" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=12;fontColor=#CCCCCC;strokeColor=default;strokeWidth=1;fillColor=none;" vertex="1" parent="jeMRQTVuAWOq2PZEhe35-1">
+          <mxGeometry x="50" y="640" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
