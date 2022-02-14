@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T00:17:35.579Z" agent="5.0 (Windows)" etag="M7YeyfcS-UEEpQLUo6rU" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-14T00:21:10.566Z" agent="5.0 (Windows)" etag="jai0m1IfQlwugeQaUOOK" version="16.5.6" type="github" pages="4">
   <diagram id="3-4cgfK8jJckpKzX2dAv" name="DB">
     <mxGraphModel dx="1027" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1099,7 +1099,7 @@
         <mxCell id="B5cCSMLJ553rnzE_0t8L-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-52">
           <mxGeometry x="90" y="80" width="250" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="B5cCSMLJ553rnzE_0t8L-65" value="Guardar nueva reserva" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-52">
+        <mxCell id="B5cCSMLJ553rnzE_0t8L-65" value="Guardar nuevo cliente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-52">
           <mxGeometry x="90" y="60" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B5cCSMLJ553rnzE_0t8L-66" value="GUARDAR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-52">
@@ -1126,7 +1126,7 @@
         <mxCell id="B5cCSMLJ553rnzE_0t8L-73" value="Cancelar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-52">
           <mxGeometry x="90" y="210" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B5cCSMLJ553rnzE_0t8L-74" value="&lt;div&gt;create-reserva.php&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-1">
+        <mxCell id="B5cCSMLJ553rnzE_0t8L-74" value="&lt;div&gt;create-cliente.php&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-1">
           <mxGeometry x="40" y="290" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B5cCSMLJ553rnzE_0t8L-75" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="B5cCSMLJ553rnzE_0t8L-1">
@@ -1174,7 +1174,7 @@
         <mxCell id="B5cCSMLJ553rnzE_0t8L-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-75">
           <mxGeometry x="90" y="80" width="250" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="B5cCSMLJ553rnzE_0t8L-88" value="Info de reserva xxxx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-75">
+        <mxCell id="B5cCSMLJ553rnzE_0t8L-88" value="Info de cliente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-75">
           <mxGeometry x="90" y="60" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B5cCSMLJ553rnzE_0t8L-89" value="BORRAR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-75">
@@ -1186,7 +1186,7 @@
         <mxCell id="B5cCSMLJ553rnzE_0t8L-91" value="Cancelar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-75">
           <mxGeometry x="90" y="210" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B5cCSMLJ553rnzE_0t8L-92" value="&lt;div&gt;read-reserva.php&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-1">
+        <mxCell id="B5cCSMLJ553rnzE_0t8L-92" value="&lt;div&gt;read-cliente.php&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-1">
           <mxGeometry x="440" y="290" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B5cCSMLJ553rnzE_0t8L-93" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="B5cCSMLJ553rnzE_0t8L-1">
@@ -1264,7 +1264,7 @@
         <mxCell id="B5cCSMLJ553rnzE_0t8L-115" value="Cancelar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-93">
           <mxGeometry x="90" y="210" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B5cCSMLJ553rnzE_0t8L-116" value="&lt;div&gt;update-reserva.php&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-1">
+        <mxCell id="B5cCSMLJ553rnzE_0t8L-116" value="&lt;div&gt;update-cliente.php&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-1">
           <mxGeometry x="40" y="570" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B5cCSMLJ553rnzE_0t8L-117" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="B5cCSMLJ553rnzE_0t8L-1">
@@ -1321,7 +1321,7 @@
         <mxCell id="B5cCSMLJ553rnzE_0t8L-132" value="CANCELAR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-117">
           <mxGeometry x="220" y="140" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B5cCSMLJ553rnzE_0t8L-133" value="&lt;div&gt;borrar-reserva.php&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-1">
+        <mxCell id="B5cCSMLJ553rnzE_0t8L-133" value="&lt;div&gt;borrar-cliente.php&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="B5cCSMLJ553rnzE_0t8L-1">
           <mxGeometry x="440" y="570" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B5cCSMLJ553rnzE_0t8L-134" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="B5cCSMLJ553rnzE_0t8L-1">
