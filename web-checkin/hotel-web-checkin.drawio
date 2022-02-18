@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T13:45:54.646Z" agent="5.0 (X11)" etag="a-29dOuMtS9m98bj1M6n" version="16.6.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-18T13:46:46.973Z" agent="5.0 (X11)" etag="CwHyqTTTGdPZ_VCUJMel" version="16.6.1" type="github" pages="6">
   <diagram id="3-4cgfK8jJckpKzX2dAv" name="DB">
     <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,10 +286,10 @@
         <mxCell id="z9NjPIREsOm1IvFADI_A-7" value="cliente_id" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="z9NjPIREsOm1IvFADI_A-5" vertex="1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="z9NjPIREsOm1IvFADI_A-8" value="Nombre" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="z9NjPIREsOm1IvFADI_A-5" vertex="1">
+        <mxCell id="z9NjPIREsOm1IvFADI_A-8" value="nombre" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="z9NjPIREsOm1IvFADI_A-5" vertex="1">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="z9NjPIREsOm1IvFADI_A-9" value="Apelido" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="z9NjPIREsOm1IvFADI_A-5" vertex="1">
+        <mxCell id="z9NjPIREsOm1IvFADI_A-9" value="apellido" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="z9NjPIREsOm1IvFADI_A-5" vertex="1">
           <mxGeometry y="104" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="z9NjPIREsOm1IvFADI_A-10" value="dni" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="z9NjPIREsOm1IvFADI_A-5" vertex="1">
