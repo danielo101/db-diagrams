@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T23:39:07.114Z" agent="5.0 (Windows)" etag="6_BoD9vpEzl2JtQL-p4e" version="16.6.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-21T23:48:03.394Z" agent="5.0 (Windows)" etag="r5jaWNEEgRkKkdthxPAI" version="16.6.2" type="github" pages="6">
   <diagram id="3-4cgfK8jJckpKzX2dAv" name="DB">
     <mxGraphModel dx="1467" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -489,7 +489,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C2ZeOKYAdORg1RfVfYsY" name="UI-Panel-Reservas">
-    <mxGraphModel dx="708" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1027" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XDW9J1ctn_4x-40NuvN8-0" />
         <mxCell id="XDW9J1ctn_4x-40NuvN8-1" parent="XDW9J1ctn_4x-40NuvN8-0" />
@@ -505,7 +505,7 @@
         <mxCell id="XDW9J1ctn_4x-40NuvN8-71" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="XDW9J1ctn_4x-40NuvN8-1" vertex="1" connectable="0">
           <mxGeometry x="40" y="320" width="360" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="XDW9J1ctn_4x-40NuvN8-107" value="&lt;div&gt;reservas.php?op=create&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="XDW9J1ctn_4x-40NuvN8-1" vertex="1">
+        <mxCell id="XDW9J1ctn_4x-40NuvN8-107" value="&lt;div&gt;form-reservas.php?op=create&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="XDW9J1ctn_4x-40NuvN8-1" vertex="1">
           <mxGeometry x="40" y="290" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XDW9J1ctn_4x-40NuvN8-145" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="XDW9J1ctn_4x-40NuvN8-1" vertex="1" connectable="0">
@@ -517,7 +517,7 @@
         <mxCell id="XDW9J1ctn_4x-40NuvN8-169" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="XDW9J1ctn_4x-40NuvN8-1" vertex="1" connectable="0">
           <mxGeometry x="40" y="600" width="360" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="XDW9J1ctn_4x-40NuvN8-185" value="reservas.php?op=update" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="XDW9J1ctn_4x-40NuvN8-1" vertex="1">
+        <mxCell id="XDW9J1ctn_4x-40NuvN8-185" value="form-reservas.php?op=update" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="XDW9J1ctn_4x-40NuvN8-1" vertex="1">
           <mxGeometry x="40" y="570" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XDW9J1ctn_4x-40NuvN8-193" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="XDW9J1ctn_4x-40NuvN8-1" vertex="1" connectable="0">
