@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T18:22:19.231Z" agent="5.0 (Windows)" etag="Dd0JAt9mu1ooRkOv95Ak" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-11T18:24:42.641Z" agent="5.0 (Windows)" etag="woK_hKVryAjDfwU1FI_5" version="17.1.2" type="github" pages="5">
   <diagram id="3-4cgfK8jJckpKzX2dAv" name="DB">
     <mxGraphModel dx="1021" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -301,10 +301,10 @@
             <mxPoint x="400" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Syxt0QOHL7QoeN4Nxg0O-3" value="EstadiasActes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="U2Fqf7ln3tG26uPg-tsL-1">
+        <mxCell id="Syxt0QOHL7QoeN4Nxg0O-3" value="Estadias" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="U2Fqf7ln3tG26uPg-tsL-1">
           <mxGeometry x="460" y="180" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Syxt0QOHL7QoeN4Nxg0O-4" value="estadia_acte_id" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;labelBorderColor=none;" vertex="1" parent="Syxt0QOHL7QoeN4Nxg0O-3">
+        <mxCell id="Syxt0QOHL7QoeN4Nxg0O-4" value="estadia_id" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;labelBorderColor=none;" vertex="1" parent="Syxt0QOHL7QoeN4Nxg0O-3">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Syxt0QOHL7QoeN4Nxg0O-5" value="acompanante_id" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Syxt0QOHL7QoeN4Nxg0O-3">
