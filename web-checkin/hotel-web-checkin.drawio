@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T15:53:03.956Z" agent="5.0 (X11)" etag="bxlsnCQ8iSF-RmnYDs91" version="17.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-29T15:13:24.782Z" agent="5.0 (X11)" etag="3puhSrbh20Kt17oK63W2" version="17.2.4" type="github" pages="5">
   <diagram id="3-4cgfK8jJckpKzX2dAv" name="DB">
     <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
         <mxCell id="j5dUsQm7dTyoc2hbwgwh-4" value="razon_social" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="U2Fqf7ln3tG26uPg-tsL-18" vertex="1">
           <mxGeometry y="570" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vxuClY1539EUhMADlgNs-0" value="status_celiaco" style="text;strokeColor=#b85450;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#FF0000;" vertex="1" parent="U2Fqf7ln3tG26uPg-tsL-18">
+        <mxCell id="vxuClY1539EUhMADlgNs-0" value="status_celiaco" style="text;strokeColor=#b85450;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#FF0000;" parent="U2Fqf7ln3tG26uPg-tsL-18" vertex="1">
           <mxGeometry y="600" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3235uI8HB6fa28vcoWu-3" value="status_deleted" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;" parent="U2Fqf7ln3tG26uPg-tsL-18" vertex="1">
@@ -229,10 +229,10 @@
         <mxCell id="z9NjPIREsOm1IvFADI_A-11" value="fecha_nacimiento" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="z9NjPIREsOm1IvFADI_A-5" vertex="1">
           <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Syxt0QOHL7QoeN4Nxg0O-13" value="Huespedes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="U2Fqf7ln3tG26uPg-tsL-1" vertex="1">
-          <mxGeometry x="260" y="312" width="140" height="120" as="geometry" />
+        <mxCell id="Syxt0QOHL7QoeN4Nxg0O-13" value="Vinculos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="U2Fqf7ln3tG26uPg-tsL-1" vertex="1">
+          <mxGeometry x="274" y="280" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Syxt0QOHL7QoeN4Nxg0O-14" value="huespedes_id" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;labelBorderColor=none;" parent="Syxt0QOHL7QoeN4Nxg0O-13" vertex="1">
+        <mxCell id="Syxt0QOHL7QoeN4Nxg0O-14" value="vinculo_id" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;labelBorderColor=none;" parent="Syxt0QOHL7QoeN4Nxg0O-13" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Syxt0QOHL7QoeN4Nxg0O-15" value="cliente_id" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Syxt0QOHL7QoeN4Nxg0O-13" vertex="1">
